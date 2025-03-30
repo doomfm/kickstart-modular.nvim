@@ -40,6 +40,8 @@ require('lazy').setup({
 
   require 'kickstart/plugins/vim-pencil',
 
+  require 'kickstart/plugins/vim-startuptime',
+
   -- [default plugins]
   require 'kickstart/plugins/gitsigns',
 
