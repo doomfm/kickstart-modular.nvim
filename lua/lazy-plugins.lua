@@ -34,11 +34,12 @@ require('lazy').setup({
 
   require 'kickstart/plugins/monochrome',
 
-  require 'kickstart/plugins/darkvoid',
-
   require 'kickstart/plugins/pomo',
 
+  require 'kickstart/plugins/render-markdown',
+
   require 'kickstart/plugins/vim-pencil',
+
   -- [default plugins]
   require 'kickstart/plugins/gitsigns',
 

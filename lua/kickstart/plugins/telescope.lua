@@ -63,6 +63,7 @@ return {
         -- },
         -- pickers = {}
         extensions = {
+          projects = {},
           ['ui-select'] = {
             require('telescope.themes').get_dropdown(),
           },
