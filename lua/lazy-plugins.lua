@@ -1,6 +1,6 @@
 -- [[ Configure and install plugins ]]
 --
--- test
+-- test test
 --  To check the current status of your plugins, run
 --    :Lazy
 --
