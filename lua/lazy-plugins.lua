@@ -32,15 +32,11 @@ require('lazy').setup({
 
   require 'kickstart/plugins/nvim-highlight-colors',
 
-  require 'kickstart/plugins/monochrome',
-
   require 'kickstart/plugins/pomo',
 
   require 'kickstart/plugins/render-markdown',
 
   require 'kickstart/plugins/vim-pencil',
-
-  require 'kickstart/plugins/vim-startuptime',
 
   -- [default plugins]
   require 'kickstart/plugins/gitsigns',
@@ -55,7 +51,7 @@ require('lazy').setup({
 
   require 'kickstart/plugins/cmp',
 
-  require 'kickstart/plugins/oxocarbon',
+  -- require 'kickstart/plugins/oxocarbon',
 
   require 'kickstart/plugins/todo-comments',
 
