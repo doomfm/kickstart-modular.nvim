@@ -37,7 +37,11 @@ require('lazy').setup({
 
   require 'kickstart/plugins/render-markdown',
 
+  require 'kickstart/plugins/lackluster',
+
   require 'kickstart/plugins/vim-pencil',
+
+  require 'kickstart/plugins/zenmode',
 
   -- [default plugins]
   require 'kickstart/plugins/gitsigns',
